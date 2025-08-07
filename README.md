@@ -14,9 +14,11 @@ A modern, full-stack Next.js application that leverages Google Gemini AI to anal
 
 ---
 
-![LLM UI Screenshot](images/LLM-UI(1).png)
-![LLM UI Screenshot](images/LLM-UI(2).png)
-![LLM UI Screenshot](images/LLM-UI(3).png)
+![LLM UI Screenshot](LLM-UI(1).png)
+
+![LLM UI Screenshot](LLM-UI(2).png)
+
+![LLM UI Screenshot](LLM-UI(3).png)
 
 ---
 
@@ -37,7 +39,7 @@ A modern, full-stack Next.js application that leverages Google Gemini AI to anal
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/rabiawaqar06/youtube-analysis-gemini.git
 cd new-gemini-app
 ```
 
