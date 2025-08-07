@@ -14,11 +14,11 @@ A modern, full-stack Next.js application that leverages Google Gemini AI to anal
 
 ---
 
-![LLM UI Screenshot](LLM-UI(1).png)
+![LLM UI Screenshot](https://i.postimg.cc/4x6NCGb5/LLM-UI-1.png)
 
-![LLM UI Screenshot](LLM-UI(2).png)
+![LLM UI Screenshot](https://i.postimg.cc/vTwb2Sgj/LLM-UI-2.png)
 
-![LLM UI Screenshot](LLM-UI(3).png)
+![LLM UI Screenshot](https://i.postimg.cc/TYSC8MYp/LLM-UI-3.png)
 
 ---
 
