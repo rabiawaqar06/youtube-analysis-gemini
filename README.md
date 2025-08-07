@@ -14,6 +14,12 @@ A modern, full-stack Next.js application that leverages Google Gemini AI to anal
 
 ---
 
+![LLM UI Screenshot](images/LLM-UI(1).png)
+![LLM UI Screenshot](images/LLM-UI(2).png)
+![LLM UI Screenshot](images/LLM-UI(3).png)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: Next.js 14+, React 19, TypeScript, TailwindCSS
