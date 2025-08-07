@@ -108,18 +108,6 @@ new-gemini-app/
 
 ---
 
-## 🔑 Environment Variables
-
-Create a `.env.local` file with:
-
-```env
-NEXT_PUBLIC_GOOGLE_API_KEY=your_gemini_api_key
-NEXT_PUBLIC_YOUTUBE_API_KEY=your_youtube_api_key
-NEXT_PUBLIC_RAPID_API_KEY=your_rapidapi_key
-```
-
----
-
 ## 🤝 Contributing
 
 1. Fork the repo
